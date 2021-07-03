@@ -1,0 +1,22 @@
+.git-add {
+  width: 80%;
+  border: 15px solid #d1d1d1;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 700px;
+}
+.git-change {
+  width: 80%;
+  border: 15px solid #d1d1d1;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 700px;
+}
+.list {
+  color: blue;
+}
+.unordered {
+  color: crimson;
+}
